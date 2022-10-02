@@ -40,7 +40,7 @@ building the title on top of the app. Pass `null` for the second argument: but t
 is where you could pass an array of any HTML attributes for the element. These are
 called "props" in React - but more on that later. For the third argument, pass
 *whatever* you want to put inside, like text: "Lift History!".
-
+<!-- The text that is rendered here has two / instead of one -->
 [[[ code('03e14c823d') ]]]
 
 Cool! Let's `console.log(el)`: I want you to see that this is just a simple object.
